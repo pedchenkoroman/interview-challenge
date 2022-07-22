@@ -5,7 +5,7 @@ const {
   fourthImplementation,
 } = require('./src');
 
-describe('The challenge from the interview of 100K euro', () => {
+describe('The challenge from the interview of 70K euro', () => {
   test('First implementation', () => {
     expect(firstImplementation([-3, -1, 0, 2, 6], 6)).toEqual([0, 6]);
     expect(firstImplementation([-1, 2, 5, 9], 7)).toEqual([2, 5]);
