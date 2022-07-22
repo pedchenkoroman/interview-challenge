@@ -1,0 +1,25 @@
+{
+  "name": "interview-challenge",
+  "version": "1.0.0",
+  "description": "The challenge from the interview of 100K euro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedchenkoroman/interview-challenge.git"
+  },
+  "keywords": [],
+  "author": "Roman Pedchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedchenkoroman/interview-challenge/issues"
+  },
+  "homepage": "https://github.com/pedchenkoroman/interview-challenge#readme",
+  "dependencies": {
+    "jest": "^28.1.3",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {}
+}
