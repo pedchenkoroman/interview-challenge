@@ -2,7 +2,6 @@
   "name": "interview-challenge",
   "version": "1.0.0",
   "description": "The challenge from the interview of 100K euro",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
