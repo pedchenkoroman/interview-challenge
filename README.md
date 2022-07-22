@@ -1,10 +1,10 @@
 # interview-challenge
 
 ## Table of Contents
-- [Quick start](#Quick start)
+- [Quick start](#install)
 - [Description](#description)
 
-## Quick start
+## Install
 - Clone this repository:
 ```shell
   git clone https://github.com/pedchenkoroman/interview-challenge.git
