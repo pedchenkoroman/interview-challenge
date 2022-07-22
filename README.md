@@ -1,2 +1,2 @@
-# interview-challendge
-The interview challendge
+# interview-challenge
+The interview challenge
