@@ -27,6 +27,10 @@
    I will return the Array with the first element and the next one. But if not I carry on to iterate the second loop.
  > Work's time of this solution - `O(n²)` and memory - `O(1)`;
 
-2. 
+2. The second solution is that create a hash table. I use only one loop and if the hash does not have the value I am looking for,
+   I add it to my hash table and take the next element. If the value exists in the hash table I just return the result and stop the iteration.
+> Work's time of this solution - `O(n)` and memory - `O(n)`;
+
+3.
 
 
