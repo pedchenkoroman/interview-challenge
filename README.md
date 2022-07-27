@@ -1,4 +1,5 @@
 # interview-challenge
+The function always receives two params one of them is a sorted array and another one is the number. We have to find two numbers into the array that in total equal the second argument.
 
 ## Table of Contents
 - [Quick start](#install)
